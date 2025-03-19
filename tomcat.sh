@@ -1,3 +1,4 @@
+sudo -i
 amazon-linux-extras install java-openjdk11 -y
 wget https://downloads.apache.org/tomcat/tomcat-9/v9.0.102/bin/apache-tomcat-9.0.102.tar.gz
 tar -zxvf apache-tomcat-9.0.102.tar.gz
